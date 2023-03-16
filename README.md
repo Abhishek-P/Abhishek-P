@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Abhishek. Head over to [my website](https://abhishek-p.github.io/) to know more about me. My most up-to-date professional information is probably on Linkedin(linked at the bottom of the personal site), if that is what you are looking for.
+My GitHub repositories are largely made of my magnificent obsessions and trivial pursuits, but there are a few curricular and academic repositories in the mix.
 <!--
 **Abhishek-P/Abhishek-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
